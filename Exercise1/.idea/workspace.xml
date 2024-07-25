@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bf9e2b5-7157-4542-8660-a06e7e9fecdb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/java/codegym/vn/exercise1/controller/UsdToVndController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/java/codegym/vn/exercise2/controller/CaculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/java/codegym/vn/exercise2/controller/RegexEmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/java/codegym/vn/exercise2/controller/SandwichController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/java/codegym/vn/exercise2/controller/TimeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/webapp/WEB-INF/views/ex1/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/webapp/WEB-INF/views/ex2/caculator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/webapp/WEB-INF/views/ex2/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/webapp/WEB-INF/views/ex2/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/webapp/WEB-INF/views/ex2/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/webapp/WEB-INF/views/ex2/sandwichForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/src/main/webapp/WEB-INF/views/ex2/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_spring_mvc/src/main/java/codegym/vn/exercise1/model/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_spring_mvc/src/main/java/codegym/vn/ss1_spring_mvc/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_spring_mvc/src/main/java/codegym/vn/ss1_spring_mvc/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_spring_mvc/src/main/java/codegym/vn/ss1_spring_mvc/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_spring_mvc/src/main/java/codegym/vn/ss1_spring_mvc/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_spring_mvc/src/main/java/codegym/vn/ss1_spring_mvc/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_spring_mvc/src/main/java/codegym/vn/ss1_spring_mvc/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_spring_mvc/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_spring_mvc/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss1_spring_mvc/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/vn/exercise1/Exercise1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codegym/vn/exercise1/Exercise1ApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Exercise1" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hMw0R7OMBLeo5fEshXeMniMK5E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build Exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Exercise1Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Codegym/C1023L1-Module4/Exercise1/src/main/webapp/WEB-INF&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codegym\C1023L1-Module4\Exercise1\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Exercise1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Exercise1.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="codegym.vn.exercise1.Exercise1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bf9e2b5-7157-4542-8660-a06e7e9fecdb" name="Changes" comment="" />
+      <created>1717417032280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717417032280</updated>
+      <workItem from="1717417033372" duration="1339000" />
+      <workItem from="1717585057575" duration="1163000" />
+      <workItem from="1717586391447" duration="366000" />
+      <workItem from="1717586775767" duration="123000" />
+      <workItem from="1717586911501" duration="159000" />
+      <workItem from="1717766205832" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
